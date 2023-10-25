@@ -1,4 +1,4 @@
-# Estimating-Monthly-Rent-Price-of-Boarding-House
+# Overview
 This is my end-to-end Data Science project involving scrapping data from a website, performing EDA, developing regression model, and deploying the model as a web app on Streamlit. You can try the web app by click this [link](https://monthlyrentpriceestimator.streamlit.app/). The web app provides some pages about an overview page of how I manage to complete this project, Data visualization page as the interactive dashboard visualization, and the last is a deployed model which can estimate the monthly rent price of boarding house.
 
 ## Contents
